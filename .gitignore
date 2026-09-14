@@ -70,3 +70,6 @@ Testing/
 .vscode/
 *.obj
 *.exe
+*.obj
+*.exe
+build/
