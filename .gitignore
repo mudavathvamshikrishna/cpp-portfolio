@@ -74,3 +74,5 @@ Testing/
 *.exe
 build/
 *.html
+*.html
+*.pfx
